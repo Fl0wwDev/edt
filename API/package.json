@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "expressjs": "^1.0.1",
+    "ical.js": "^2.1.0",
+    "node-ical": "^0.20.1"
+  }
+}

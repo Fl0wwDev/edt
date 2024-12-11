@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,53 +7,60 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <header class="header">
-      <h1>Emploi du Temps</h1>
-    </header>
-
-    <main class="schedule">
-      <table>
-        <thead>
-          <tr>
-            <th>Jour</th>
-            <th>Horaire</th>
-            <th>Cours</th>
-            <th>Salle</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Lundi</td>
-            <td>08:00 - 10:00</td>
-            <td>Mathématiques</td>
-            <td>B101</td>
-          </tr>
-          <tr>
-            <td>Lundi</td>
-            <td>10:15 - 12:15</td>
-            <td>Physique</td>
-            <td>C202</td>
-          </tr>
-          <tr>
-            <td>Mardi</td>
-            <td>13:30 - 15:30</td>
-            <td>Programmation</td>
-            <td>D404</td>
-          </tr>
-          <tr>
-            <td>Mercredi</td>
-            <td>09:00 - 11:00</td>
-            <td>Anglais</td>
-            <td>A303</td>
-          </tr>
-        </tbody>
-      </table>
-    </main>
-
-    <footer class="footer">
-      <p>&copy; 2024 - Mon Emploi du Temps</p>
-    </footer>
+  <div class="schedule">
+    <div class="header">
+      <div class="time-column">Horaires</div>
+      <div class="day">Lundi</div>
+      <div class="day">Mardi</div>
+      <div class="day">Mercredi</div>
+      <div class="day">Jeudi</div>
+      <div class="day">Vendredi</div>
+    </div>
+    <div class="body">
+      <div class="time-column">
+        <div class="time-slot">08:30</div>
+        <div class="time-slot">10:00</div>
+        <div class="time-slot">10:30</div>
+        <div class="time-slot">12:00</div>
+        <div class="time-slot">13:30</div>
+        <div class="time-slot">15:00</div>
+        <div class="time-slot">16:00 - 17:30</div>
+      </div>
+      <div class="column">
+        <div class="block" style="grid-row: 3;">
+          <div class="course">SAE5.DEVCLOUD.03</div>
+          <div class="details">TP DevCloud-FA / FI</div>
+        </div>
+        <div class="block" style="grid-row: 6;">
+          <div class="course">SAE - Poursuite d'étude</div>
+          <div class="details">DION Joel</div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="block" style="grid-row: 3;">
+          <div class="course">SAE5.DEVCLOUD.03</div>
+          <div class="details">TP DevCloud-FA / FI</div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="block" style="grid-row: 5;">
+          <div class="course">R5.02 Supervision</div>
+          <div class="details">BORRACCINO François</div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="block" style="grid-row: 4;">
+          <div class="course">PPP Formalisation</div>
+          <div class="details">GARINET Jacques</div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="block" style="grid-row: 6;">
+          <div class="course">Expression-Culture</div>
+          <div class="details">NGUYEN Julie</div>
+        </div>
+      </div>
+    </div>
   </div>
 </body>
 </html>

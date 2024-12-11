@@ -1,0 +1,4844 @@
+[
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-06T07:30:00.000Z",
+    "end": "2024-12-06T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.02 - Supervision des réseaux",
+    "start": "2024-12-06T11:45:00.000Z",
+    "end": "2024-12-06T13:00:00.000Z",
+    "location": "GRI_F_014 Amphi",
+    "description": {
+      "groups": [
+        "RT3"
+      ],
+      "teachers": [
+        "LATSAGUE Jean-Marie"
+      ]
+    },
+    "durationMinutes": 75
+  },
+  {
+    "summary": "R5.02 - Supervision des réseaux",
+    "start": "2024-12-06T13:00:00.000Z",
+    "end": "2024-12-06T14:45:00.000Z",
+    "location": "GRI_F_208",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LATSAGUE Jean-Marie"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.06 -   Expression-Culture-Communication Professionnelles 3",
+    "start": "2024-12-06T14:45:00.000Z",
+    "end": "2024-12-06T16:30:00.000Z",
+    "location": "GRI_F_210,GRI_F_209",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "THOMANN Guy",
+        "PUISSANT Laurence"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-09T07:30:00.000Z",
+    "end": "2024-12-09T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.03 - Ingénierie des systèmes télécoms",
+    "start": "2024-12-09T12:30:00.000Z",
+    "end": "2024-12-09T16:00:00.000Z",
+    "location": "GRI_C_001,GRI_F_110",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent",
+        "BOEGLEN Hervé"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-10T07:30:00.000Z",
+    "end": "2024-12-10T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "ALBERT Arnauld"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-10T12:30:00.000Z",
+    "end": "2024-12-10T16:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.03 - Ingénierie des systèmes télécoms",
+    "start": "2024-12-11T07:30:00.000Z",
+    "end": "2024-12-11T11:00:00.000Z",
+    "location": "GRI_C_001,GRI_F_110",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent",
+        "BOEGLEN Hervé"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.03 - Ingénierie des systèmes télécoms",
+    "start": "2024-12-11T12:30:00.000Z",
+    "end": "2024-12-11T16:00:00.000Z",
+    "location": "GRI_C_001,GRI_F_110",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent",
+        "BOEGLEN Hervé"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.02 - Supervision des réseaux",
+    "start": "2024-12-12T07:30:00.000Z",
+    "end": "2024-12-12T11:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "HILT Benoit",
+        "REHM Guillaume"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.02 - Supervision des réseaux",
+    "start": "2024-12-12T12:30:00.000Z",
+    "end": "2024-12-12T16:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "HILT Benoit",
+        "REHM Guillaume"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.03 - Ingénierie des systèmes télécoms",
+    "start": "2024-12-13T07:30:00.000Z",
+    "end": "2024-12-13T11:00:00.000Z",
+    "location": "GRI_C_001,GRI_F_110",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent",
+        "BOEGLEN Hervé"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.03 - Ingénierie des systèmes télécoms",
+    "start": "2024-12-13T12:30:00.000Z",
+    "end": "2024-12-13T16:00:00.000Z",
+    "location": "GRI_C_001,GRI_F_110",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent",
+        "BOEGLEN Hervé"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-16T07:30:00.000Z",
+    "end": "2024-12-16T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée",
+    "start": "2024-12-16T07:30:00.000Z",
+    "end": "2024-12-16T11:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE - Poursuite d'étude",
+    "start": "2024-12-16T12:30:00.000Z",
+    "end": "2024-12-16T14:15:00.000Z",
+    "location": "GRI_F_012",
+    "description": {
+      "groups": [
+        "RT3"
+      ],
+      "teachers": [
+        "DION Joel"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-17T07:30:00.000Z",
+    "end": "2024-12-17T11:00:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité",
+    "start": "2024-12-17T07:30:00.000Z",
+    "end": "2024-12-17T11:00:00.000Z",
+    "location": "GRI_F_202",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "GILG Marc"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-17T12:30:00.000Z",
+    "end": "2024-12-17T16:00:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.DEVCLOUD.03 - Orchestrer la conteneurisation d'une application",
+    "start": "2024-12-18T07:30:00.000Z",
+    "end": "2024-12-18T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "ALBERT Arnauld"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité",
+    "start": "2024-12-18T07:30:00.000Z",
+    "end": "2024-12-18T11:00:00.000Z",
+    "location": "GRI_F_202",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "GILG Marc"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.02 - Supervision des réseaux - Sécurité",
+    "start": "2024-12-18T12:30:00.000Z",
+    "end": "2024-12-18T16:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "HILT Benoit",
+        "BORRACCINO Francois"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée",
+    "start": "2024-12-19T07:30:00.000Z",
+    "end": "2024-12-19T11:00:00.000Z",
+    "location": "GRI_C_104,GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "VALENTIN Alexandre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.07 - PPP Formalisation du projet",
+    "start": "2024-12-19T07:30:00.000Z",
+    "end": "2024-12-19T11:00:00.000Z",
+    "location": "GRI_F_108",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "GARINET Jacques"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.06 -   Expression-Culture-Communication Professionnelles 3",
+    "start": "2024-12-19T12:30:00.000Z",
+    "end": "2024-12-19T14:15:00.000Z",
+    "location": "GRI_F_002,GRI_F_010",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "THOMANN Guy",
+        "PUISSANT Laurence"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.05 - Anglais professionnel 1",
+    "start": "2024-12-19T14:15:00.000Z",
+    "end": "2024-12-19T16:00:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée",
+    "start": "2024-12-20T07:30:00.000Z",
+    "end": "2024-12-20T11:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "ABOUAISSA Abdelhafid",
+        "VALENTIN Alexandre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée",
+    "start": "2024-12-20T12:30:00.000Z",
+    "end": "2024-12-20T16:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "ABOUAISSA Abdelhafid",
+        "VALENTIN Alexandre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-23T07:15:00.000Z",
+    "end": "2024-12-23T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-23T07:15:00.000Z",
+    "end": "2024-12-23T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-23T07:30:00.000Z",
+    "end": "2024-12-23T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 810
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-24T06:00:00.000Z",
+    "end": "2024-12-24T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-24T07:15:00.000Z",
+    "end": "2024-12-24T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-24T07:15:00.000Z",
+    "end": "2024-12-24T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-25T06:00:00.000Z",
+    "end": "2024-12-25T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-25T07:15:00.000Z",
+    "end": "2024-12-25T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-25T07:15:00.000Z",
+    "end": "2024-12-25T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-26T06:00:00.000Z",
+    "end": "2024-12-26T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-26T07:15:00.000Z",
+    "end": "2024-12-26T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-26T07:15:00.000Z",
+    "end": "2024-12-26T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-27T06:00:00.000Z",
+    "end": "2024-12-27T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-27T07:15:00.000Z",
+    "end": "2024-12-27T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-27T07:15:00.000Z",
+    "end": "2024-12-27T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-28T06:00:00.000Z",
+    "end": "2024-12-28T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-28T07:15:00.000Z",
+    "end": "2024-12-28T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-28T07:15:00.000Z",
+    "end": "2024-12-28T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-30T06:00:00.000Z",
+    "end": "2024-12-30T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-30T07:15:00.000Z",
+    "end": "2024-12-30T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-30T07:15:00.000Z",
+    "end": "2024-12-30T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2024-12-31T06:00:00.000Z",
+    "end": "2024-12-31T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2024-12-31T07:15:00.000Z",
+    "end": "2024-12-31T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2024-12-31T07:15:00.000Z",
+    "end": "2024-12-31T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2025-01-01T06:00:00.000Z",
+    "end": "2025-01-01T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-01T07:15:00.000Z",
+    "end": "2025-01-01T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-01T07:15:00.000Z",
+    "end": "2025-01-01T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2025-01-02T06:00:00.000Z",
+    "end": "2025-01-02T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-02T07:15:00.000Z",
+    "end": "2025-01-02T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-02T07:15:00.000Z",
+    "end": "2025-01-02T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2025-01-03T06:00:00.000Z",
+    "end": "2025-01-03T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-03T07:15:00.000Z",
+    "end": "2025-01-03T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-03T07:15:00.000Z",
+    "end": "2025-01-03T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES DE NOEL",
+    "start": "2025-01-04T06:00:00.000Z",
+    "end": "2025-01-04T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "TP DevCloud-FI",
+        "TP Cyber-FI",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-04T07:15:00.000Z",
+    "end": "2025-01-04T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-04T07:15:00.000Z",
+    "end": "2025-01-04T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-06T07:15:00.000Z",
+    "end": "2025-01-06T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-06T07:15:00.000Z",
+    "end": "2025-01-06T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE - Travail à la maison",
+    "start": "2025-01-06T07:30:00.000Z",
+    "end": "2025-01-06T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 810
+  },
+  {
+    "summary": "SAE - Travail à la maison",
+    "start": "2025-01-07T06:00:00.000Z",
+    "end": "2025-01-07T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-07T07:15:00.000Z",
+    "end": "2025-01-07T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-07T07:15:00.000Z",
+    "end": "2025-01-07T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE - Travail à la maison",
+    "start": "2025-01-08T06:00:00.000Z",
+    "end": "2025-01-08T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-08T07:15:00.000Z",
+    "end": "2025-01-08T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-08T07:15:00.000Z",
+    "end": "2025-01-08T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE - Travail à la maison",
+    "start": "2025-01-09T06:00:00.000Z",
+    "end": "2025-01-09T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-09T07:15:00.000Z",
+    "end": "2025-01-09T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-09T07:15:00.000Z",
+    "end": "2025-01-09T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE - Travail à la maison",
+    "start": "2025-01-10T06:00:00.000Z",
+    "end": "2025-01-10T16:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 600
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-10T07:15:00.000Z",
+    "end": "2025-01-10T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-10T07:15:00.000Z",
+    "end": "2025-01-10T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-11T07:15:00.000Z",
+    "end": "2025-01-11T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-11T07:15:00.000Z",
+    "end": "2025-01-11T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-13T07:15:00.000Z",
+    "end": "2025-01-13T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-13T07:15:00.000Z",
+    "end": "2025-01-13T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE",
+    "start": "2025-01-13T07:30:00.000Z",
+    "end": "2025-01-13T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 810
+  },
+  {
+    "summary": "SAE",
+    "start": "2025-01-14T06:00:00.000Z",
+    "end": "2025-01-14T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-14T07:15:00.000Z",
+    "end": "2025-01-14T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-14T07:15:00.000Z",
+    "end": "2025-01-14T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE",
+    "start": "2025-01-15T06:00:00.000Z",
+    "end": "2025-01-15T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-15T07:15:00.000Z",
+    "end": "2025-01-15T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-15T07:15:00.000Z",
+    "end": "2025-01-15T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE",
+    "start": "2025-01-16T06:00:00.000Z",
+    "end": "2025-01-16T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-16T07:15:00.000Z",
+    "end": "2025-01-16T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-16T07:15:00.000Z",
+    "end": "2025-01-16T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE",
+    "start": "2025-01-17T06:00:00.000Z",
+    "end": "2025-01-17T16:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 600
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-17T07:15:00.000Z",
+    "end": "2025-01-17T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-17T07:30:00.000Z",
+    "end": "2025-01-17T20:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-01-18T07:15:00.000Z",
+    "end": "2025-01-18T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-01-18T07:15:00.000Z",
+    "end": "2025-01-18T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-01-20T07:30:00.000Z",
+    "end": "2025-01-20T09:15:00.000Z",
+    "location": "GRI_F_014 Amphi",
+    "description": {
+      "groups": [
+        "RT3"
+      ],
+      "teachers": [
+        "MURA Laurent"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-01-20T09:15:00.000Z",
+    "end": "2025-01-20T11:00:00.000Z",
+    "location": "GRI_C_001",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.03 - Connaissance de l'entreprise",
+    "start": "2025-01-20T12:30:00.000Z",
+    "end": "2025-01-20T14:15:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "MORALES Jerome"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-01-20T14:15:00.000Z",
+    "end": "2025-01-20T16:00:00.000Z",
+    "location": "GRI_C_001",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.06 - Expression-Culture-Communication Professionnelles 3",
+    "start": "2025-01-21T07:30:00.000Z",
+    "end": "2025-01-21T11:00:00.000Z",
+    "location": "GRI_F_208",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "BARONNET Nathalie"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "TOEIC",
+    "start": "2025-01-21T12:30:00.000Z",
+    "end": "2025-01-21T16:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP Rom-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.CYBER.03 - Assurer la sécurisation et la supervision d'un système",
+    "start": "2025-01-22T07:30:00.000Z",
+    "end": "2025-01-22T11:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "VALENTIN Alexandre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-22T07:30:00.000Z",
+    "end": "2025-01-22T11:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-22T12:30:00.000Z",
+    "end": "2025-01-22T14:15:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité",
+    "start": "2025-01-22T12:30:00.000Z",
+    "end": "2025-01-22T16:00:00.000Z",
+    "location": "GRI_F_209",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "GILG Marc"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-22T14:15:00.000Z",
+    "end": "2025-01-22T16:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.06 - Expression-Culture-Communication Professionnelles 3",
+    "start": "2025-01-23T07:30:00.000Z",
+    "end": "2025-01-23T11:00:00.000Z",
+    "location": "GRI_F_210",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "BARONNET Nathalie"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-01-23T07:30:00.000Z",
+    "end": "2025-01-23T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-01-23T12:00:00.000Z",
+    "end": "2025-01-23T13:45:00.000Z",
+    "location": "GRI_C_106",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "BACZA Fabrice",
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-01-23T12:30:00.000Z",
+    "end": "2025-01-23T14:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-01-23T14:15:00.000Z",
+    "end": "2025-01-23T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité",
+    "start": "2025-01-23T14:15:00.000Z",
+    "end": "2025-01-23T16:00:00.000Z",
+    "location": "GRI_C_106",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Cyber-FI"
+      ],
+      "teachers": [
+        "GILG Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.CYBER.03 - Assurer la sécurisation et la supervision d'un système",
+    "start": "2025-01-24T07:30:00.000Z",
+    "end": "2025-01-24T11:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-24T07:30:00.000Z",
+    "end": "2025-01-24T09:15:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-24T09:15:00.000Z",
+    "end": "2025-01-24T11:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE - Poursuite d'étude",
+    "start": "2025-01-24T11:45:00.000Z",
+    "end": "2025-01-24T13:30:00.000Z",
+    "location": "GRI_F_010",
+    "description": {
+      "groups": [
+        "RT3"
+      ],
+      "teachers": [
+        "DION Joel"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-24T13:30:00.000Z",
+    "end": "2025-01-24T17:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.CYBER.03 - Assurer la sécurisation et la supervision d'un système",
+    "start": "2025-01-24T13:30:00.000Z",
+    "end": "2025-01-24T17:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité",
+    "start": "2025-01-25T07:30:00.000Z",
+    "end": "2025-01-25T09:15:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "GILG Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité",
+    "start": "2025-01-25T09:15:00.000Z",
+    "end": "2025-01-25T11:00:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "GILG Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-01-27T07:30:00.000Z",
+    "end": "2025-01-27T09:15:00.000Z",
+    "location": "GRI_F_110",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-01-27T09:15:00.000Z",
+    "end": "2025-01-27T11:00:00.000Z",
+    "location": "GRI_F_110",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-01-27T12:30:00.000Z",
+    "end": "2025-01-27T16:00:00.000Z",
+    "location": "GRI_C_001",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité (Virus)",
+    "start": "2025-01-28T07:30:00.000Z",
+    "end": "2025-01-28T10:30:00.000Z",
+    "location": "GRI_F_014 Amphi",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Cyber-FI"
+      ],
+      "teachers": [
+        "ROZIER Alexis"
+      ]
+    },
+    "durationMinutes": 180
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-28T07:30:00.000Z",
+    "end": "2025-01-28T11:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.05 - Anglais professionnel 1",
+    "start": "2025-01-28T12:30:00.000Z",
+    "end": "2025-01-28T14:15:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.06 -   Expression-Culture-Communication Professionnelles 3",
+    "start": "2025-01-28T14:15:00.000Z",
+    "end": "2025-01-28T16:00:00.000Z",
+    "location": "GRI_F_003,GRI_F_010",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "THOMANN Guy",
+        "PUISSANT Laurence"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-29T07:30:00.000Z",
+    "end": "2025-01-29T09:15:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée",
+    "start": "2025-01-29T07:30:00.000Z",
+    "end": "2025-01-29T11:00:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-29T09:15:00.000Z",
+    "end": "2025-01-29T11:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-01-29T12:30:00.000Z",
+    "end": "2025-01-29T16:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-01-30T07:30:00.000Z",
+    "end": "2025-01-30T11:00:00.000Z",
+    "location": "GRI_F_210",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.06 -   Expression-Culture-Communication Professionnelles 3",
+    "start": "2025-01-30T12:30:00.000Z",
+    "end": "2025-01-30T14:15:00.000Z",
+    "location": "GRI_F_003,GRI_F_010",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "THOMANN Guy",
+        "PUISSANT Laurence"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.05 - Anglais professionnel 1",
+    "start": "2025-01-30T14:15:00.000Z",
+    "end": "2025-01-30T16:00:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-01-31T07:30:00.000Z",
+    "end": "2025-01-31T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.CYBER.03 - Assurer la sécurisation et la supervision d'un système",
+    "start": "2025-01-31T07:30:00.000Z",
+    "end": "2025-01-31T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-01-31T12:00:00.000Z",
+    "end": "2025-01-31T13:45:00.000Z",
+    "location": "GRI_C_106",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "BACZA Fabrice"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-01-31T12:30:00.000Z",
+    "end": "2025-01-31T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-02-03T07:30:00.000Z",
+    "end": "2025-02-03T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité (Virus)",
+    "start": "2025-02-03T07:30:00.000Z",
+    "end": "2025-02-03T11:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "ROZIER Alexis"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité (Virus)",
+    "start": "2025-02-03T12:30:00.000Z",
+    "end": "2025-02-03T16:00:00.000Z",
+    "location": "GRI_C_103,GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "ROZIER Alexis"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-02-03T12:30:00.000Z",
+    "end": "2025-02-03T14:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-02-03T14:15:00.000Z",
+    "end": "2025-02-03T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-02-04T07:30:00.000Z",
+    "end": "2025-02-04T09:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.CYBER.03 - Assurer la sécurisation et la supervision d'un système",
+    "start": "2025-02-04T07:30:00.000Z",
+    "end": "2025-02-04T11:00:00.000Z",
+    "location": "GRI_C_104,GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "VALENTIN Alexandre",
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-02-04T09:15:00.000Z",
+    "end": "2025-02-04T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.05 - Anglais professionnel 1",
+    "start": "2025-02-04T12:30:00.000Z",
+    "end": "2025-02-04T14:15:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.02 - Expression-Culture-Communication Professionnelles",
+    "start": "2025-02-04T14:15:00.000Z",
+    "end": "2025-02-04T16:00:00.000Z",
+    "location": "GRI_F_011",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "DEMOUX Sebastien"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-02-05T07:30:00.000Z",
+    "end": "2025-02-05T09:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.10 - Audits de sécurité",
+    "start": "2025-02-05T07:30:00.000Z",
+    "end": "2025-02-05T11:00:00.000Z",
+    "location": "GRI_F_202",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "GILG Marc"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.DEVCLOUD.12 - Solution cloud",
+    "start": "2025-02-05T09:15:00.000Z",
+    "end": "2025-02-05T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-02-05T12:30:00.000Z",
+    "end": "2025-02-05T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE5.01 -   Concevoir réaliser et présenter une solution technique",
+    "start": "2025-02-06T07:30:00.000Z",
+    "end": "2025-02-06T11:00:00.000Z",
+    "location": "GRI_C_001",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "MURA Laurent"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-02-06T12:00:00.000Z",
+    "end": "2025-02-06T13:45:00.000Z",
+    "location": "GRI_H_004 Amphi",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "BACZA Fabrice"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-02-06T12:30:00.000Z",
+    "end": "2025-02-06T14:15:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.DEVCLOUD.09 - Outils et méthodes du devops",
+    "start": "2025-02-06T14:15:00.000Z",
+    "end": "2025-02-06T16:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "LEONARD Rudy"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "Forum poursuite détude BUT3",
+    "start": "2025-02-07T07:30:00.000Z",
+    "end": "2025-02-07T12:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP Rom-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 270
+  },
+  {
+    "summary": "R6.02 - Expression-Culture-Communication Professionnelles",
+    "start": "2025-02-07T12:45:00.000Z",
+    "end": "2025-02-07T14:30:00.000Z",
+    "location": "GRI_C_105",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "DEMOUX Sebastien"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.05 - Anglais professionnel 1",
+    "start": "2025-02-07T14:30:00.000Z",
+    "end": "2025-02-07T16:15:00.000Z",
+    "location": "GRI_F_012",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "NGUYEN Julie"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-10T07:15:00.000Z",
+    "end": "2025-02-10T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-10T07:15:00.000Z",
+    "end": "2025-02-10T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE",
+    "start": "2025-02-10T07:30:00.000Z",
+    "end": "2025-02-10T14:30:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 420
+  },
+  {
+    "summary": "Soutenance Evan Vallet",
+    "start": "2025-02-10T14:30:00.000Z",
+    "end": "2025-02-10T15:30:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 60
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-11T07:15:00.000Z",
+    "end": "2025-02-11T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-11T07:15:00.000Z",
+    "end": "2025-02-11T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-12T07:15:00.000Z",
+    "end": "2025-02-12T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-12T07:15:00.000Z",
+    "end": "2025-02-12T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-13T07:15:00.000Z",
+    "end": "2025-02-13T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-13T07:15:00.000Z",
+    "end": "2025-02-13T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-14T07:15:00.000Z",
+    "end": "2025-02-14T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-14T07:15:00.000Z",
+    "end": "2025-02-14T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-15T07:15:00.000Z",
+    "end": "2025-02-15T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-15T07:15:00.000Z",
+    "end": "2025-02-15T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES D'HIVER",
+    "start": "2025-02-17T07:15:00.000Z",
+    "end": "2025-02-17T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": [
+        "BINDEL Sebastien",
+        "NGUYEN Julie",
+        "GILG Marc",
+        "PALLARES Anne",
+        "LORENZ Pascal",
+        "FEMMAM Smain",
+        "HENSEL Philippe",
+        "BENNIS Ismail",
+        "ALBERT Arnauld",
+        "HILT Benoit",
+        "GARINET Jacques",
+        "MURA Laurent",
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 825
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-17T07:15:00.000Z",
+    "end": "2025-02-17T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-17T07:15:00.000Z",
+    "end": "2025-02-17T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES D'HIVER",
+    "start": "2025-02-18T06:00:00.000Z",
+    "end": "2025-02-18T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": [
+        "BINDEL Sebastien",
+        "NGUYEN Julie",
+        "GILG Marc",
+        "PALLARES Anne",
+        "LORENZ Pascal",
+        "FEMMAM Smain",
+        "HENSEL Philippe",
+        "BENNIS Ismail",
+        "ALBERT Arnauld",
+        "HILT Benoit",
+        "GARINET Jacques",
+        "MURA Laurent",
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-18T07:15:00.000Z",
+    "end": "2025-02-18T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-18T07:15:00.000Z",
+    "end": "2025-02-18T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES D'HIVER",
+    "start": "2025-02-19T06:00:00.000Z",
+    "end": "2025-02-19T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": [
+        "BINDEL Sebastien",
+        "NGUYEN Julie",
+        "GILG Marc",
+        "PALLARES Anne",
+        "LORENZ Pascal",
+        "FEMMAM Smain",
+        "HENSEL Philippe",
+        "BENNIS Ismail",
+        "ALBERT Arnauld",
+        "HILT Benoit",
+        "GARINET Jacques",
+        "MURA Laurent",
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-19T07:15:00.000Z",
+    "end": "2025-02-19T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-19T07:15:00.000Z",
+    "end": "2025-02-19T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES D'HIVER",
+    "start": "2025-02-20T06:00:00.000Z",
+    "end": "2025-02-20T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": [
+        "BINDEL Sebastien",
+        "NGUYEN Julie",
+        "GILG Marc",
+        "PALLARES Anne",
+        "LORENZ Pascal",
+        "FEMMAM Smain",
+        "HENSEL Philippe",
+        "BENNIS Ismail",
+        "ALBERT Arnauld",
+        "HILT Benoit",
+        "GARINET Jacques",
+        "MURA Laurent",
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-20T07:15:00.000Z",
+    "end": "2025-02-20T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-20T07:15:00.000Z",
+    "end": "2025-02-20T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES D'HIVER",
+    "start": "2025-02-21T06:00:00.000Z",
+    "end": "2025-02-21T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": [
+        "BINDEL Sebastien",
+        "NGUYEN Julie",
+        "GILG Marc",
+        "PALLARES Anne",
+        "LORENZ Pascal",
+        "FEMMAM Smain",
+        "HENSEL Philippe",
+        "BENNIS Ismail",
+        "ALBERT Arnauld",
+        "HILT Benoit",
+        "GARINET Jacques",
+        "MURA Laurent",
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-21T07:15:00.000Z",
+    "end": "2025-02-21T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-21T07:15:00.000Z",
+    "end": "2025-02-21T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "VACANCES D'HIVER",
+    "start": "2025-02-22T06:00:00.000Z",
+    "end": "2025-02-22T18:30:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "RT132",
+        "TP Cyber-FI",
+        "TP DevCloud-FI",
+        "RT112",
+        "RT131",
+        "RT121",
+        "RT122",
+        "RT111"
+      ],
+      "teachers": [
+        "BINDEL Sebastien",
+        "NGUYEN Julie",
+        "GILG Marc",
+        "PALLARES Anne",
+        "LORENZ Pascal",
+        "FEMMAM Smain",
+        "HENSEL Philippe",
+        "BENNIS Ismail",
+        "ALBERT Arnauld",
+        "HILT Benoit",
+        "GARINET Jacques",
+        "MURA Laurent",
+        "ABOUAISSA Abdelhafid"
+      ]
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-02-22T07:15:00.000Z",
+    "end": "2025-02-22T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-02-22T07:15:00.000Z",
+    "end": "2025-02-22T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-24T07:30:00.000Z",
+    "end": "2025-02-24T09:15:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "ALBERT Arnauld"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-24T09:15:00.000Z",
+    "end": "2025-02-24T11:00:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "ALBERT Arnauld"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-02-24T09:15:00.000Z",
+    "end": "2025-02-24T11:00:00.000Z",
+    "location": "GRI_C_106",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Cyber-FI"
+      ],
+      "teachers": [
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-02-24T12:00:00.000Z",
+    "end": "2025-02-24T13:45:00.000Z",
+    "location": "GRI_F_003,GRI_F_012",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "DROUHIN Frederic",
+        "BACZA Fabrice"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-24T12:00:00.000Z",
+    "end": "2025-02-24T16:00:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-02-24T13:45:00.000Z",
+    "end": "2025-02-24T15:30:00.000Z",
+    "location": "GRI_F_012",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-02-25T07:30:00.000Z",
+    "end": "2025-02-25T09:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-02-25T07:30:00.000Z",
+    "end": "2025-02-25T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-02-25T09:15:00.000Z",
+    "end": "2025-02-25T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-02-25T12:30:00.000Z",
+    "end": "2025-02-25T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-02-25T12:30:00.000Z",
+    "end": "2025-02-25T16:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-26T07:30:00.000Z",
+    "end": "2025-02-26T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-02-26T07:30:00.000Z",
+    "end": "2025-02-26T09:15:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-02-26T09:15:00.000Z",
+    "end": "2025-02-26T11:00:00.000Z",
+    "location": "GRI_F_013",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.01 - Anglais professionnel 2",
+    "start": "2025-02-26T12:30:00.000Z",
+    "end": "2025-02-26T14:15:00.000Z",
+    "location": "GRI_F_109",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.03 - Connaissance de l'entreprise",
+    "start": "2025-02-26T14:15:00.000Z",
+    "end": "2025-02-26T16:00:00.000Z",
+    "location": "GRI_F_012",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "MORALES Jerome"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-27T07:30:00.000Z",
+    "end": "2025-02-27T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-02-27T07:30:00.000Z",
+    "end": "2025-02-27T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.01 - Anglais professionnel 2",
+    "start": "2025-02-27T12:30:00.000Z",
+    "end": "2025-02-27T14:15:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-27T14:15:00.000Z",
+    "end": "2025-02-27T16:15:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 120
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-02-27T14:15:00.000Z",
+    "end": "2025-02-27T16:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6 - Portfolio",
+    "start": "2025-02-28T07:30:00.000Z",
+    "end": "2025-02-28T10:30:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "NGUYEN Julie"
+      ]
+    },
+    "durationMinutes": 180
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-28T07:30:00.000Z",
+    "end": "2025-02-28T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-02-28T12:00:00.000Z",
+    "end": "2025-02-28T13:45:00.000Z",
+    "location": "GRI_F_010,GRI_F_002",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "DROUHIN Frederic",
+        "BACZA Fabrice"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-02-28T12:30:00.000Z",
+    "end": "2025-02-28T16:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-02-28T13:45:00.000Z",
+    "end": "2025-02-28T15:30:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.01 - Anglais professionnel 2",
+    "start": "2025-03-03T07:30:00.000Z",
+    "end": "2025-03-03T09:15:00.000Z",
+    "location": "GRI_F_109",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.03 - Connaissance de l'entreprise",
+    "start": "2025-03-03T09:15:00.000Z",
+    "end": "2025-03-03T11:00:00.000Z",
+    "location": "GRI_F_003",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "MORALES Jerome"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-03T12:30:00.000Z",
+    "end": "2025-03-03T16:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-03T12:30:00.000Z",
+    "end": "2025-03-03T14:15:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-03T14:15:00.000Z",
+    "end": "2025-03-03T16:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-04T07:30:00.000Z",
+    "end": "2025-03-04T09:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée (RDS)",
+    "start": "2025-03-04T07:30:00.000Z",
+    "end": "2025-03-04T11:00:00.000Z",
+    "location": "GRI_F_202",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "SCHERDANN Fabrice",
+        "LEBIDAN Bernard-Joseph"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-04T09:15:00.000Z",
+    "end": "2025-03-04T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée (RDS)",
+    "start": "2025-03-04T12:30:00.000Z",
+    "end": "2025-03-04T16:00:00.000Z",
+    "location": "GRI_F_202",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "SCHERDANN Fabrice",
+        "LEBIDAN Bernard-Joseph"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-04T12:30:00.000Z",
+    "end": "2025-03-04T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-05T07:30:00.000Z",
+    "end": "2025-03-05T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée (RDS)",
+    "start": "2025-03-05T07:30:00.000Z",
+    "end": "2025-03-05T11:00:00.000Z",
+    "location": "GRI_F_202",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "SCHERDANN Fabrice",
+        "LEBIDAN Bernard-Joseph"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-05T12:30:00.000Z",
+    "end": "2025-03-05T16:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée (RDS)",
+    "start": "2025-03-05T12:30:00.000Z",
+    "end": "2025-03-05T16:00:00.000Z",
+    "location": "GRI_F_202",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "SCHERDANN Fabrice",
+        "LEBIDAN Bernard-Joseph"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-06T07:30:00.000Z",
+    "end": "2025-03-06T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-06T07:30:00.000Z",
+    "end": "2025-03-06T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.02 - Expression-Culture-Communication Professionnelles",
+    "start": "2025-03-06T12:30:00.000Z",
+    "end": "2025-03-06T14:15:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "DEMOUX Sebastien"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.01 - Anglais professionnel 2",
+    "start": "2025-03-06T14:15:00.000Z",
+    "end": "2025-03-06T16:00:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-07T07:30:00.000Z",
+    "end": "2025-03-07T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-07T07:30:00.000Z",
+    "end": "2025-03-07T11:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE - Poursuite d'étude",
+    "start": "2025-03-07T12:30:00.000Z",
+    "end": "2025-03-07T14:15:00.000Z",
+    "location": "GRI_F_010",
+    "description": {
+      "groups": [
+        "RT3"
+      ],
+      "teachers": [
+        "DION Joel"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.03 - Connaissance de l'entreprise",
+    "start": "2025-03-07T14:15:00.000Z",
+    "end": "2025-03-07T16:00:00.000Z",
+    "location": "GRI_F_012",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "MORALES Jerome"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-08T07:30:00.000Z",
+    "end": "2025-03-08T09:15:00.000Z",
+    "location": "GRI_F_003,GRI_F_002,GRI_F_011",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "BACZA Fabrice",
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-08T09:15:00.000Z",
+    "end": "2025-03-08T11:00:00.000Z",
+    "location": "GRI_F_003,GRI_F_002,GRI_F_011",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "BACZA Fabrice",
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-10T07:30:00.000Z",
+    "end": "2025-03-10T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-10T07:30:00.000Z",
+    "end": "2025-03-10T09:15:00.000Z",
+    "location": "GRI_F_011",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-10T09:15:00.000Z",
+    "end": "2025-03-10T11:00:00.000Z",
+    "location": "GRI_F_011",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-10T12:00:00.000Z",
+    "end": "2025-03-10T15:30:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-10T12:30:00.000Z",
+    "end": "2025-03-10T16:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-11T07:30:00.000Z",
+    "end": "2025-03-11T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-11T07:30:00.000Z",
+    "end": "2025-03-11T09:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-11T09:15:00.000Z",
+    "end": "2025-03-11T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-11T12:15:00.000Z",
+    "end": "2025-03-11T15:45:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-11T12:30:00.000Z",
+    "end": "2025-03-11T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R6.01 - Anglais professionnel 2",
+    "start": "2025-03-12T07:30:00.000Z",
+    "end": "2025-03-12T09:15:00.000Z",
+    "location": "GRI_F_108",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.03 - Connaissance de l'entreprise",
+    "start": "2025-03-12T09:15:00.000Z",
+    "end": "2025-03-12T11:00:00.000Z",
+    "location": "GRI_F_010",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "MORALES Jerome"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-12T12:00:00.000Z",
+    "end": "2025-03-12T13:45:00.000Z",
+    "location": "GRI_F_003,GRI_F_002,GRI_F_012",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "BACZA Fabrice",
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-12T12:30:00.000Z",
+    "end": "2025-03-12T16:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-13T07:30:00.000Z",
+    "end": "2025-03-13T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée (Veeam)",
+    "start": "2025-03-13T07:30:00.000Z",
+    "end": "2025-03-13T11:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "SCHERDANN Fabrice",
+        "LEBIDAN Bernard-Joseph"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "R5.CYBER.09 - Architectures sécurisée (Veeam)",
+    "start": "2025-03-13T12:30:00.000Z",
+    "end": "2025-03-13T16:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2"
+      ],
+      "teachers": [
+        "SCHERDANN Fabrice",
+        "LEBIDAN Bernard-Joseph"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-13T12:30:00.000Z",
+    "end": "2025-03-13T16:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-14T07:30:00.000Z",
+    "end": "2025-03-14T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-14T09:00:00.000Z",
+    "end": "2025-03-14T10:45:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-14T12:30:00.000Z",
+    "end": "2025-03-14T14:15:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "ALBERT Arnauld"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-14T12:45:00.000Z",
+    "end": "2025-03-14T14:30:00.000Z",
+    "location": "GRI_F_003",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-14T14:15:00.000Z",
+    "end": "2025-03-14T16:00:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "ALBERT Arnauld"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.CYBER-04 - Réponse à incidents",
+    "start": "2025-03-15T07:30:00.000Z",
+    "end": "2025-03-15T11:00:00.000Z",
+    "location": "GRI_F_012,GRI_F_003,GRI_F_013",
+    "description": {
+      "groups": [
+        "TP Cyber-FA2",
+        "TP Cyber-FI",
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "DROUHIN Frederic",
+        "BACZA Fabrice"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-17T07:30:00.000Z",
+    "end": "2025-03-17T11:00:00.000Z",
+    "location": "GRI_C_100",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "ALBERT Arnauld"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-17T07:30:00.000Z",
+    "end": "2025-03-17T09:15:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-17T09:15:00.000Z",
+    "end": "2025-03-17T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE - Poursuite d'étude",
+    "start": "2025-03-17T11:45:00.000Z",
+    "end": "2025-03-17T13:30:00.000Z",
+    "location": "GRI_F_010",
+    "description": {
+      "groups": [
+        "RT3"
+      ],
+      "teachers": [
+        "DION Joel"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-17T13:30:00.000Z",
+    "end": "2025-03-17T15:15:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-17T13:30:00.000Z",
+    "end": "2025-03-17T17:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-18T07:30:00.000Z",
+    "end": "2025-03-18T09:15:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-18T07:30:00.000Z",
+    "end": "2025-03-18T09:15:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-18T09:15:00.000Z",
+    "end": "2025-03-18T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-18T09:15:00.000Z",
+    "end": "2025-03-18T11:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.DEVCLOUD.04 - Pilotage de solution Cloud pour l'entreprise",
+    "start": "2025-03-18T12:30:00.000Z",
+    "end": "2025-03-18T16:00:00.000Z",
+    "location": "GRI_F_201",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "RIFF Pierre"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-18T12:30:00.000Z",
+    "end": "2025-03-18T14:15:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-18T14:15:00.000Z",
+    "end": "2025-03-18T16:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6 - Portfolio",
+    "start": "2025-03-19T07:30:00.000Z",
+    "end": "2025-03-19T10:30:00.000Z",
+    "location": "GRI_F_210",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": [
+        "NGUYEN Julie"
+      ]
+    },
+    "durationMinutes": 180
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-19T07:30:00.000Z",
+    "end": "2025-03-19T09:15:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-19T09:15:00.000Z",
+    "end": "2025-03-19T11:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-19T12:30:00.000Z",
+    "end": "2025-03-19T16:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-19T12:30:00.000Z",
+    "end": "2025-03-19T14:15:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-19T14:15:00.000Z",
+    "end": "2025-03-19T16:00:00.000Z",
+    "location": "GRI_C_103",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.DEVCLOUD.01 - Gérer le pipeline d'une application orientée cloud",
+    "start": "2025-03-20T07:30:00.000Z",
+    "end": "2025-03-20T11:30:00.000Z",
+    "location": "GRI_C_007",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 240
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-20T07:30:00.000Z",
+    "end": "2025-03-20T09:15:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-20T09:15:00.000Z",
+    "end": "2025-03-20T11:00:00.000Z",
+    "location": "GRI_C_104",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.02 - Expression-Culture-Communication Professionnelles",
+    "start": "2025-03-20T12:30:00.000Z",
+    "end": "2025-03-20T14:15:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "DEMOUX Sebastien"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.01 - Anglais professionnel 2",
+    "start": "2025-03-20T14:15:00.000Z",
+    "end": "2025-03-20T16:00:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.03 - Connaissance de l'entreprise",
+    "start": "2025-03-21T07:30:00.000Z",
+    "end": "2025-03-21T09:15:00.000Z",
+    "location": "GRI_F_012",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "MORALES Jerome"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.02 - Expression-Culture-Communication Professionnelles",
+    "start": "2025-03-21T09:15:00.000Z",
+    "end": "2025-03-21T11:00:00.000Z",
+    "location": "GRI_F_002",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "DEMOUX Sebastien"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "R6.01 - Anglais professionnel 2",
+    "start": "2025-03-21T12:30:00.000Z",
+    "end": "2025-03-21T14:15:00.000Z",
+    "location": "GRI_F_108,GRI_F_109",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie",
+        "MIDDLETON Marc"
+      ]
+    },
+    "durationMinutes": 105
+  },
+  {
+    "summary": "SAE6 - Portfolio",
+    "start": "2025-03-21T14:15:00.000Z",
+    "end": "2025-03-21T15:45:00.000Z",
+    "location": "GRI_F_110",
+    "description": {
+      "groups": [
+        "RT31"
+      ],
+      "teachers": [
+        "NGUYEN Julie"
+      ]
+    },
+    "durationMinutes": 90
+  },
+  {
+    "summary": "SAE6.CYBER-01 - Sécuriser un système Réagir face à une cyber attaqu",
+    "start": "2025-03-22T07:30:00.000Z",
+    "end": "2025-03-22T11:00:00.000Z",
+    "location": "GRI_F_013",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1"
+      ],
+      "teachers": [
+        "DROUHIN Frederic"
+      ]
+    },
+    "durationMinutes": 210
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-03-24T07:15:00.000Z",
+    "end": "2025-03-24T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "STAGE 14 SEMAINES BUT 3 FI",
+    "start": "2025-03-24T07:30:00.000Z",
+    "end": "2025-03-24T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FI",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 810
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-03-24T07:30:00.000Z",
+    "end": "2025-03-24T20:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "STAGE 14 SEMAINES BUT 3 FI",
+    "start": "2025-03-25T06:00:00.000Z",
+    "end": "2025-03-25T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FI",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-03-25T07:15:00.000Z",
+    "end": "2025-03-25T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-03-25T07:30:00.000Z",
+    "end": "2025-03-25T20:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "STAGE 14 SEMAINES BUT 3 FI",
+    "start": "2025-03-26T06:00:00.000Z",
+    "end": "2025-03-26T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FI",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-03-26T07:15:00.000Z",
+    "end": "2025-03-26T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-03-26T07:30:00.000Z",
+    "end": "2025-03-26T20:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "STAGE 14 SEMAINES BUT 3 FI",
+    "start": "2025-03-27T06:00:00.000Z",
+    "end": "2025-03-27T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FI",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-03-27T07:15:00.000Z",
+    "end": "2025-03-27T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-03-27T07:30:00.000Z",
+    "end": "2025-03-27T20:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "STAGE 14 SEMAINES BUT 3 FI",
+    "start": "2025-03-28T06:00:00.000Z",
+    "end": "2025-03-28T21:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FI",
+        "TP DevCloud-FI"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 900
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-DEVCLOUD FA",
+    "start": "2025-03-28T07:15:00.000Z",
+    "end": "2025-03-28T19:45:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP DevCloud-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  },
+  {
+    "summary": "ENTREPRISE-BUT3-CYBER/RoM FA",
+    "start": "2025-03-28T07:30:00.000Z",
+    "end": "2025-03-28T20:00:00.000Z",
+    "location": "Non précisée",
+    "description": {
+      "groups": [
+        "TP Cyber-FA1",
+        "TP Cyber-FA2",
+        "TP Rom-FA"
+      ],
+      "teachers": []
+    },
+    "durationMinutes": 750
+  }
+]
